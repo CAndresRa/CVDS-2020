@@ -92,7 +92,7 @@ Connection: close`
 ➜  ~ wc -c resultado.txt      
 3742 resultado.txt
 
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/0.png)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/0.png)
 
 6. En la practica no se utiliza telnet para hacer peticiones a sitios web sino el comando curl con ayuda de la linea de comandos:
 
@@ -124,19 +124,19 @@ Access-Control-Allow-Credentials: true
 
 # PARTE DOS
 
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/1.jpeg)
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/2.jpeg)
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/3.jpeg)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/1.jpeg)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/2.jpeg)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/3.jpeg)
 
 # PARTE TRES y CUATRO 
 
 ### Usando GET 
 
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/4.jpeg)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/4.jpeg)
 
 ### Usando POST
 
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/5.jpeg)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/5.jpeg)
 
 * La diferencia principal se encuentra en las url de cada solicitud 
 
@@ -147,11 +147,11 @@ b. Abra la aplicación en dos computadores diferentes. Si no dispone de uno, há
 
 5 intentos en CHROME
 
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/6.png)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/6.png)
 
 1 INTENTO EN FIREFOX
 
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/7.png)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/7.png)
 
 
 c. Aborte el proceso de Tomcat-runner haciendo Ctrl+C en la consola, y modifique el código del backing-bean de manera que use la anotación @SessionScoped en lugar de @ApplicationScoped. Reinicie la aplicación y repita el ejercicio anterior.
@@ -163,12 +163,12 @@ Los backing-beans de session crean una nueva instancia del bean por cada disposi
 
 5 INTENTOS EN CHROME
 
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/8.png)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/8.png)
 
 5 INTENTOS EN FIREFOX
 
 
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/9.png)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/9.png)
 
 d. Por medio de las herramientas de desarrollador del explorador (Usando la tecla "F12" en la mayoría de exploradores):
   •	Ubique el código HTML generado por el servidor.
@@ -179,8 +179,8 @@ d. Por medio de las herramientas de desarrollador del explorador (Usando la tecl
   •	Actualice la página. Los cambios de estilos realizados desaparecen, pues se realizaron únicamente en la visualización, la respuesta del servidor sigue siendo la misma, ya que el contenido de los archivos allí almacenados no se ha modificado.
   •	Revise qué otros cambios se pueden realizar y qué otra información se puede obtener de las herramientas de desarrollador.
 
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/10.png)
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/11.png)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/10.png)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/11.png)
 
 
 11. Para facilitar los intentos del usuario, se agregará una lista de los últimos intentos fallidos realizados:
@@ -190,5 +190,5 @@ c.	Cuando se reinicie el juego, limpie el contenido de la lista.
 d.	Busque cómo agregar una tabla a la página, cuyo contenido sea los últimos intentos realizados.
 
 
-![Texto alternativo](https://github.com/CAndresRa/Laboratorio5-CVDS/blob/master/imagenes/12.png)
+![Texto alternativo](https://github.com/CAndresRa/CVDS/blob/master/Laboratorio5-CVDS/imagenes/12.png)
 
